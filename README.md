@@ -1,16 +1,37 @@
-# Student Management System
+# 🎓 StudentManagementSystem – Java Swing GUI
 
-## Functionalities
-- Add new student records (Name, Roll Number, Grade)
-- View all students in a table
-- Search students by name
-- Delete selected student
-- Clear all student records
-- Modern, user-friendly interface with color theme
+A **Student Management System** built using **Java Swing**, designed to manage student records via a simple and intuitive desktop interface.
 
+---
 
-How To Run The App :
+## 💡 Features
 
-1) Navigate To the directory.
-2) Open cmd from the directory
-3) Run this in cmd : java StudentManagementApp
+- ➕ Add Student Details
+- ✏️ Edit Existing Records
+- ❌ Delete Students
+- 📃 View All Records in Table
+- 🎨 Graphical User Interface using Swing
+
+---
+
+## 🧰 Technologies Used
+
+- **Java (JDK 8+)**
+- **Swing & AWT** for GUI
+- Optional: **File I/O** or **JDBC** if you're using a database
+- IDE: IntelliJ IDEA / Eclipse / NetBeans
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+- Java JDK (8 or above)
+- Java-compatible IDE
+
+### 🖥️ Run Locally
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/StudentManagementSystem.git
+   cd StudentManagementSystem
